@@ -1,6 +1,6 @@
 # ISO/IEC 27002:2022 Interactive Hub & Threat Simulator
 
-Uma plataforma web interativa, sólida e profissional projetada para fins didáticos, auditorias preliminares e apresentações práticas sobre a norma **ISO/IEC 27002:2022** (Controles de Segurança da Informação).
+Uma plataforma web interativa, sólida e profissional projetada para fins didáticos, auditorias preliminares e avaliações de conformidade sobre a norma **ISO/IEC 27002:2022** (Controles de Segurança da Informação).
 
 Este projeto foi construído para demonstrar visualmente o impacto prático da implementação de controles de segurança em cenários corporativos reais de ameaça e avaliar o nível de maturidade de uma organização.
 
